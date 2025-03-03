@@ -5,3 +5,7 @@ html {
 table, th, td {
   border: 1px solid rgb(245, 242, 245); width: 80%;
 }
+
+p:first-of-type {
+  margin-top: 40px; 
+}
